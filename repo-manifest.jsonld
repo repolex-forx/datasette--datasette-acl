@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/datasette/datasette-acl/commit/b586db5bef9fa18efebd47bfc13a90980dd2f395",
       "git:hexsha": "b586db5bef9fa18efebd47bfc13a90980dd2f395",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.6a1"
     },
     {
